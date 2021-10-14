@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @satyam-srivastava
+- 👀 I’m interested in exploring codebases, projects and learning from the world
+- 🌱 I’m currently learning solidity and web3.js
+- 📫 Reach me via my website : www.satyamsrivastava.work
